@@ -1,0 +1,6 @@
+*terraform.tfstate
+*.terraform.tfstate.lock.inf
+*.terraform/
+*.tfvars
+*.pem
+*.ppk
